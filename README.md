@@ -1,5 +1,7 @@
 # REST API Example
-
+```
+npm install
+```
 ## change example.env to .env
 
 #### [Optional] Switch database to Prisma Postgres
